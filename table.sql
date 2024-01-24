@@ -12,7 +12,7 @@ CREATE TABLE Persons (
 
 INSERT INTO Persons
     (
-	        -- id column value is auto-generated
+	        -- id column value is auto-generated!
         LastName,FirstName
 	    )
 	    VALUES
